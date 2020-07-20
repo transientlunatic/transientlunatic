@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Daniel 👋
+
+- 😄 Pronouns: He / Him
+- :telescope: I'm an astronomer working at the University of Glasgow researching Gravitational Waves
+- :rugby_football: I have some spare-time projects here as well as astronomy-based ones.
+
+
 
 <!--
 **transientlunatic/transientlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
