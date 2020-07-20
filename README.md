@@ -1,9 +1,21 @@
-### Hi, I'm Daniel 👋
+# Dr Daniel Williams
 
+I'm Daniel Williams a gravitational wave astrophysicist based at the [Institute for Gravitational Research](https://physics.glasgow.ac.uk/igr) searching for gravitational waves. My main research interests include the use of Bayesian machine learning techniques to produce surrogate models. 
+A list of my major research projects can be found [here](https://daniel-williams.co.uk/about/research/).
+
+## Quick facts about Daniel
 - 😄 Pronouns: He / Him
 - :telescope: I'm an astronomer working at the University of Glasgow researching Gravitational Waves
-- :rugby_football: I have some spare-time projects here as well as astronomy-based ones.
+- :snake: Extensive experience with Python, some experience working with Javascript, C, C++
 
+## GitHub Highlights
+
+- [`gravpy`](https://github.com/transientlunatic/gravpy): A python package to allow simple detectability estimates for gravitational wave signals
+- [`heron`](https://github.com/transientlunatic/heron): A Gaussian process waveform model for binary black holes
+- [`tikz-feyn`](https://github.com/transientlunatic/tikz-feyn): A LaTeX / TikZ package to typeset simple Feynman diagrams
+
+## Get in touch
+For details about how to get in touch [check my website](https://daniel-williams.co.uk/about/contact/). 
 
 
 <!--
