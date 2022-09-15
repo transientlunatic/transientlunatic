@@ -10,6 +10,7 @@ A list of my major research projects can be found [here](https://daniel-williams
 
 ## GitHub Highlights
 
+- [`asimov`](https://github.com/ligo-asimov/asimov): An application and toolkit for scientific analysis automation
 - [`gravpy`](https://github.com/transientlunatic/gravpy): A python package to allow simple detectability estimates for gravitational wave signals
 - [`heron`](https://github.com/transientlunatic/heron): A Gaussian process waveform model for binary black holes
 - [`tikz-feyn`](https://github.com/transientlunatic/tikz-feyn): A LaTeX / TikZ package to typeset simple Feynman diagrams
