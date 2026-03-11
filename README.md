@@ -1,35 +1,28 @@
-# Dr Daniel Williams
+# Daniel Williams
 
-I'm Daniel Williams a gravitational wave astrophysicist based at the [Institute for Gravitational Research](https://physics.glasgow.ac.uk/igr) searching for gravitational waves. My main research interests include the use of Bayesian machine learning techniques to produce surrogate models. 
-A list of my major research projects can be found [here](https://daniel-williams.co.uk/about/research/).
+Research Fellow in gravitational-wave astrophysics at the [Institute for Gravitational Research](https://physics.glasgow.ac.uk/igr), University of Glasgow. 
+I work within the LIGO-Virgo-KAGRA collaboration, where I led astrophysical parameter estimation across the O3 and O4 observing runs.
 
-## Quick facts about Daniel
-- 😄 Pronouns: He / Him
-- :telescope: I'm an astronomer working at the University of Glasgow researching Gravitational Waves
-- :snake: Extensive experience with Python, some experience working with Javascript, C, C++
+My research sits at the intersection of Bayesian inference, machine learning, and gravitational-wave data analysis — building the tools and infrastructure that turn detector data into astrophysics at collaboration scale.
 
-## GitHub Highlights
+## Software
 
-- [`asimov`](https://github.com/etive-io/asimov): An application and toolkit for scientific analysis automation
-- [`gravpy`](https://github.com/transientlunatic/gravpy): A python package to allow simple detectability estimates for gravitational wave signals
-- [`heron`](https://github.com/transientlunatic/heron): A Gaussian process waveform model for binary black holes
-- [`tikz-feyn`](https://github.com/transientlunatic/tikz-feyn): A LaTeX / TikZ package to typeset simple Feynman diagrams
+| | |
+|---|---|
+| [**asimov**](https://github.com/etive-io/asimov) | Workflow orchestration for large-scale scientific analyses. Used in production by LIGO, Virgo, and KAGRA across GWTC-2, GWTC-3, and GWTC-4. |
+| [**heron**](https://github.com/transientlunatic/heron) | Gaussian process surrogate waveform models for Bayesian parameter estimation. |
+| [**gravpy**](https://github.com/transientlunatic/gravpy) | Gravitational-wave detectability and signal toolkit. |
 
-## Get in touch
-For details about how to get in touch [check my website](https://daniel-williams.co.uk/about/contact/). 
+## Research interests
+
+Bayesian parameter estimation · Gaussian process modelling · 
+Simulation-based inference · Gravitational-wave catalogues · 
+Scientific workflow automation
+
+## Find me
+
+🌐 [daniel-williams.co.uk](https://daniel-williams.co.uk) &nbsp;|&nbsp; 
+📄 [ORCID 0000-0003-3772-198X](https://orcid.org/0000-0003-3772-198X) &nbsp;|&nbsp;
+🦋 [@daniel-williams.co.uk](https://bsky.app/profile/daniel-williams.co.uk)
 
 
-<!--
-**transientlunatic/transientlunatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
